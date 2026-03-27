@@ -2,7 +2,7 @@
 
 Byte 0x00 makes up 86.7188% of the file's contents. This may indicate truncation / malformation.
 
-SizeofOptionalHeader indicates that NumberOfRvaAndSizes is off by at least 14.
+SizeOfOptionalHeader indicates that NumberOfRvaAndSizes is off by at least 14.
 
 SizeOfHeaders is smaller than AddressOfEntryPoint: this file cannot run under Windows 8.
 

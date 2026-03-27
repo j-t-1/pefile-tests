@@ -2,7 +2,7 @@
 
 Byte 0x00 makes up 96.6222% of the file's contents. This may indicate truncation / malformation.
 
-SizeofOptionalHeader indicates that NumberOfRvaAndSizes is off by at least 14.
+SizeOfOptionalHeader indicates that NumberOfRvaAndSizes is off by at least 14.
 
 If SectionAlignment (0x400) < 0x1000 it should equal FileAlignment (0x200)
 

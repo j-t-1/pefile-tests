@@ -2,7 +2,7 @@
 
 Byte 0x00 makes up 74.5443% of the file's contents. This may indicate truncation / malformation.
 
-SizeofOptionalHeader indicates that NumberOfRvaAndSizes is off by at least 14.
+SizeOfOptionalHeader indicates that NumberOfRvaAndSizes is off by at least 14.
 
 Invalid relocation information. VirtualAddress outside of Image: 0x4004ad
 
