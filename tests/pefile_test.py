@@ -93,7 +93,7 @@ def test_pe_image_regression_test(pe_filename, REGEN=False):
     lines_to_ignore = 0
 
     if control_data_hash != pe_file_data_hash:
-        print("\nHash differs for [%s]" % os.path.basename(pe_filename))
+        print(f"\nHash differs for [{os.path.basename(pe_filename)}]")
 
         control_file_lines = [
             l for l in control_data.decode("utf-8").splitlines()
